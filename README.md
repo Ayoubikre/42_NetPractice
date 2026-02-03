@@ -20,7 +20,8 @@ This project uses a simulated training interface accessible via a web browser.
 ### Networking Concepts
 - [OSI model layers](https://www.imperva.com/learn/application-security/osi-model/)
 - [Default gateways](https://www.geeksforgeeks.org/computer-networks/default-gateway-in-networking/)
-
+- [TCP/IP](https://www.frameip.com/tcpip/)
+- [CCNA Fundamentals/subneting](https://academy.networkchuck.com/path-player?courseid=learn-ccna-right-now&unit=685ab534cb340373120fdac4Unit)
 
 ### AI Usage
 In alignment with the project's AI instructions:
