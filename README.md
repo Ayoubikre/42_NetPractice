@@ -1,12 +1,7 @@
 *This project has been created as part of the 42 curriculum by aakritah.*
 
 ## Description
-**NetPractice** is a practical networking exercise designed to introduce the fundamentals of computer communication. The primary goal is to configure small-scale networks by correctly setting up IP addresses, subnet masks, and default gateways. The project consists of 10 levels of increasing difficulty, each requiring the user to resolve connection issues within a simulated environment.
-
-
-## Description
 **NetPractice** is a practical exploration into the foundational mechanics of computer networking. This project shifts from theoretical study to hands-on configuration, requiring the resolution of 10 increasingly complex networking levels within a simulated environment. The objective is to engineer functional communication pathways across diverse network topologies by precisely managing IP addresses, subnet masks, and routing logic. By diagnosing connectivity issues through simulation logs, this project builds a deep, intuition-based understanding of how data packets traverse routers and gateways to reach their destination.
-
 
 ## Instructions
 ### Running the Interface
@@ -23,12 +18,9 @@ This project uses a simulated training interface accessible via a web browser.
 
 ## Resources
 ### Networking Concepts
-To complete these levels, the following concepts were studied and applied:
-* **TCP/IP Addressing**: Understanding how unique identifiers are assigned to network devices.
-* **Subnet Masks**: Defining the boundaries between the network and host portions of an address.
-* **Default Gateways**: Configuring the exit point for data packets traveling to external networks.
-* **Routers and Switches**: Learning how hardware manages traffic between different subnets.
-* **OSI Model Layers**: Reviewing the conceptual layers of data transmission.
+- [OSI model layers](https://www.imperva.com/learn/application-security/osi-model/)
+- [Default gateways](https://www.geeksforgeeks.org/computer-networks/default-gateway-in-networking/)
+
 
 ### AI Usage
 In alignment with the project's AI instructions:
