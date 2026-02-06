@@ -56,38 +56,6 @@ For each level:
 5. **Export** your configuration with the `Get my config` button
 6. **Save** the exported file before moving to the next level
 
-### Exporting Configurations
-
-**IMPORTANT:** After completing each level, you must export your configuration:
-- Click the `Get my config` button
-- Save the downloaded file (e.g., `level1.json`, `level2.json`, etc.)
-- These files are required for submission
-
-### Submission Requirements
-
-Your Git repository must contain:
-- **10 configuration files** (one per level) at the repository root
-- **README.md** (this file)
-- Files should be named clearly (e.g., `level1.json` through `level10.json`)
-
-```
-your-repository/
-├── README.md
-├── level1.json
-├── level2.json
-├── level3.json
-├── level4.json
-├── level5.json
-├── level6.json
-├── level7.json
-├── level8.json
-├── level9.json
-└── level10.json
-```
-
-**During Defense:**
-You will complete 3 random levels in a limited time without external tools (only basic calculator like `bc` is allowed).
-
 ## 🧠 Networking Concepts Covered
 
 ### TCP/IP Addressing
